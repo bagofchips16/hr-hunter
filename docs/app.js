@@ -1,5 +1,7 @@
 /* ─── HR Hunter — Static Public Dashboard ─── */
 
+const REPO = 'bagofchips16/hr-hunter';
+
 let allJobs = [];
 let currentData = null;
 let activeFilter = 'all';
@@ -27,7 +29,7 @@ function setupEventListeners() {
 
 async function loadData() {
     try {
-        const resp = await fetch('data.json');
+        const resp = await fetch('data.json?t=' + Date.now());
         const data = await resp.json();
         currentData = data;
         allJobs = data.jobs || [];
@@ -35,17 +37,98 @@ async function loadData() {
         setStatus('ready');
         const ts = data.daily_run_at || data.metadata?.timestamp;
         if (ts) {
-            document.getElementById('lastUpdated').textContent =
-                'Updated ' + new Date(ts).toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' });
+            const d = new Date(ts);
+            const ago = timeSince(d);
+            document.getElementById('lastUpdated').textContent = 'Updated ' + ago;
         }
     } catch (err) {
         document.getElementById('jobsGrid').innerHTML = `
             <div class="empty-state">
                 <h2>Could not load data</h2>
-                <p>Check back later — data is refreshed daily.</p>
+                <p>Check back later — data is refreshed automatically every 6 hours.</p>
             </div>`;
         setStatus('error');
     }
+}
+
+function timeSince(date) {
+    const seconds = Math.floor((new Date() - date) / 1000);
+    if (seconds < 60) return 'just now';
+    const mins = Math.floor(seconds / 60);
+    if (mins < 60) return mins + 'm ago';
+    const hrs = Math.floor(mins / 60);
+    if (hrs < 24) return hrs + 'h ago';
+    const days = Math.floor(hrs / 24);
+    return days + 'd ago';
+}
+
+// ─── Trigger GitHub Actions scrape ──────────────────────────────────
+async function triggerRefresh() {
+    const btn = document.getElementById('refreshBtn');
+    btn.disabled = true;
+    btn.innerHTML = '⏳ Refreshing...';
+    setStatus('loading');
+
+    const oldTimestamp = currentData?.daily_run_at;
+
+    // Try triggering a live scrape via GitHub Actions API
+    const pat = localStorage.getItem('hr_hunter_pat');
+    if (pat) {
+        try {
+            const resp = await fetch(`https://api.github.com/repos/${REPO}/dispatches`, {
+                method: 'POST',
+                headers: {
+                    'Accept': 'application/vnd.github+json',
+                    'Authorization': 'Bearer ' + pat,
+                },
+                body: JSON.stringify({ event_type: 'scrape' }),
+            });
+            if (resp.status === 204 || resp.ok) {
+                btn.innerHTML = '⏳ Scraping live...';
+                document.getElementById('lastUpdated').textContent = 'Scrape running — fresh data in ~3 min...';
+                pollForNewData(oldTimestamp);
+                return;
+            }
+        } catch (e) { /* fall through */ }
+    }
+
+    // Re-fetch latest data (cache-bust)
+    await loadData();
+    resetRefreshBtn();
+}
+
+async function pollForNewData(oldTimestamp) {
+    let attempts = 0;
+    const maxAttempts = 36; // 6 minutes (every 10s)
+
+    const poll = setInterval(async () => {
+        attempts++;
+        try {
+            const resp = await fetch('data.json?t=' + Date.now());
+            const data = await resp.json();
+            if (data.daily_run_at !== oldTimestamp) {
+                clearInterval(poll);
+                currentData = data;
+                allJobs = data.jobs || [];
+                renderDashboard(data);
+                setStatus('ready');
+                resetRefreshBtn();
+                document.getElementById('lastUpdated').textContent = 'Updated just now';
+                return;
+            }
+        } catch (e) { /* retry */ }
+        if (attempts >= maxAttempts) {
+            clearInterval(poll);
+            setStatus('ready');
+            resetRefreshBtn();
+        }
+    }, 10000);
+}
+
+function resetRefreshBtn() {
+    const btn = document.getElementById('refreshBtn');
+    btn.innerHTML = '🔄 Search Now';
+    btn.disabled = false;
 }
 
 function renderDashboard(data) {
