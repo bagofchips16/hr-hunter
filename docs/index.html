@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HR Hunter — Browse HR & People Openings</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="header">
+    <div class="header-left">
+        <h1>⚡ HR Hunter</h1>
+        <div class="subtitle">HR & People Openings — HRBP / Talent Acquisition / L&D / Total Rewards</div>
+    </div>
+    <div class="header-right">
+        <span id="statusBadge" class="status-badge status-loading">● Loading...</span>
+        <span id="lastUpdated" style="font-size:12px;color:#9ca3af;"></span>
+    </div>
+</header>
+
+<main class="main">
+
+    <div class="stats-bar">
+        <div class="stat-card">
+            <div class="number" id="statScraped">—</div>
+            <div class="label">Total Scraped</div>
+        </div>
+        <div class="stat-card">
+            <div class="number" id="statMatched">—</div>
+            <div class="label">Above Threshold</div>
+        </div>
+        <div class="stat-card">
+            <div class="number" id="statDisplayed">—</div>
+            <div class="label">Displayed</div>
+        </div>
+        <div class="stat-card">
+            <div class="number" id="statSources">—</div>
+            <div class="label">Sources</div>
+        </div>
+        <div class="stat-card">
+            <div class="number" id="statCompanies">—</div>
+            <div class="label">Companies</div>
+        </div>
+    </div>
+
+    <!-- Search -->
+    <div style="margin-bottom:20px;">
+        <input type="text" id="searchInput" placeholder="🔍 Search by title, company, or location..."
+               style="width:100%;padding:12px 16px;border-radius:10px;border:1px solid #334155;background:#1e293b;color:#f1f5f9;font-size:15px;outline:none;">
+    </div>
+
+    <!-- Filters -->
+    <div class="filter-bar">
+        <button class="filter-chip active" data-filter="all">All Roles</button>
+        <button class="filter-chip" data-filter="p1">🟡 P1 — Strong</button>
+        <button class="filter-chip" data-filter="p2">🔵 P2 — Good</button>
+        <button class="filter-chip" data-filter="hrbp">🤝 HRBP / TA</button>
+        <button class="filter-chip" data-filter="comp">💰 Comp & Ben</button>
+        <button class="filter-chip" data-filter="ld">📚 L&D / OD</button>
+        <button class="filter-chip" data-filter="analytics">📊 HR Analytics</button>
+        <button class="filter-chip" data-filter="india">🇮🇳 India</button>
+        <button class="filter-chip" data-filter="abroad">🌍 Abroad / Remote</button>
+    </div>
+
+    <!-- Job Cards -->
+    <div id="jobCount" style="color:#94a3b8;margin-bottom:12px;font-size:14px;"></div>
+    <div id="jobsGrid" class="jobs-grid">
+        <div class="empty-state">
+            <h2>Loading openings...</h2>
+            <p>Fetching latest HR & People roles from 6 sources.</p>
+        </div>
+    </div>
+
+    <!-- Market Insights -->
+    <div id="insightsPanel" class="insights-panel" style="display:none;">
+        <h2>📊 Market Insights</h2>
+        <div class="insights-grid">
+            <div class="insight-block">
+                <h3>Hiring Trends</h3>
+                <ul id="insightsTrends"></ul>
+            </div>
+            <div class="insight-block">
+                <h3>Top Hirers (HR)</h3>
+                <ul id="insightsHirers"></ul>
+            </div>
+            <div class="insight-block">
+                <h3>JD Keyword Patterns</h3>
+                <ul id="insightsPatterns"></ul>
+            </div>
+        </div>
+    </div>
+
+</main>
+
+<footer style="text-align:center;padding:40px 20px;color:#64748b;font-size:13px;">
+    Data refreshed daily from LinkedIn, Greenhouse, Lever, Ashby, Google Careers & Amazon Jobs.<br>
+    <a href="https://github.com/bagofchips16/hr-hunter" target="_blank" style="color:#818cf8;">View on GitHub</a>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
