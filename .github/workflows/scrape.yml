@@ -1,0 +1,72 @@
+name: Daily HR Scrape
+
+on:
+  schedule:
+    # Run every 6 hours: midnight, 6am, noon, 6pm UTC
+    - cron: '0 0,6,12,18 * * *'
+  workflow_dispatch:   # Manual trigger from Actions tab
+  repository_dispatch: # Trigger from website "Search Now" button
+    types: [scrape]
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium --with-deps
+
+      - name: Run scraper
+        run: |
+          python -c "
+          import asyncio, json, sys
+          from pathlib import Path
+          from datetime import datetime
+
+          sys.path.insert(0, '.')
+          from orchestrator import run_all_scrapers
+
+          async def main():
+              results = await run_all_scrapers()
+              results['daily_run_at'] = datetime.now().isoformat()
+
+              Path('assets').mkdir(exist_ok=True)
+              Path('assets/daily_results.json').write_text(
+                  json.dumps(results, indent=2, default=str), encoding='utf-8'
+              )
+
+              # Copy to docs for GitHub Pages
+              Path('docs/data.json').write_text(
+                  json.dumps(results, indent=2, default=str), encoding='utf-8'
+              )
+
+              meta = results.get('metadata', {})
+              jobs = results.get('jobs', [])
+              print(f'Scraped={meta.get(\"total_scraped\",0)}, '
+                    f'Displayed={meta.get(\"displayed\",0)}, '
+                    f'Companies={len(set(j.get(\"company\",\"\") for j in jobs))}')
+
+          asyncio.run(main())
+          "
+
+      - name: Commit & push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/daily_results.json docs/data.json
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Auto-update: $(date -u '+%Y-%m-%d %H:%M') UTC â€” $(python -c "import json; d=json.load(open('docs/data.json')); print(f'{d[\"metadata\"][\"displayed\"]} jobs from {len(set(j[\"company\"] for j in d[\"jobs\"]))} companies')")"
+          git push
