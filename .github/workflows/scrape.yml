@@ -68,5 +68,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/daily_results.json docs/data.json
           git diff --cached --quiet && echo "No changes" && exit 0
-          git commit -m "Auto-update: $(date -u '+%Y-%m-%d %H:%M') UTC â€” $(python -c "import json; d=json.load(open('docs/data.json')); print(f'{d[\"metadata\"][\"displayed\"]} jobs from {len(set(j[\"company\"] for j in d[\"jobs\"]))} companies')")"
+          git commit -m "Auto-update: $(date -u '+%Y-%m-%d %H:%M') UTC -- $(python -c "import json; d=json.load(open('docs/data.json')); print(f'{d[\"metadata\"][\"displayed\"]} jobs from {len(set(j[\"company\"] for j in d[\"jobs\"]))} companies')")
           git push

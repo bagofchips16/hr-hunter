@@ -21,9 +21,13 @@ function setupEventListeners() {
             renderJobs();
         });
     });
+    let debounceTimer;
     document.getElementById('searchInput').addEventListener('input', (e) => {
-        searchQuery = e.target.value.toLowerCase().trim();
-        renderJobs();
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(() => {
+            searchQuery = e.target.value.toLowerCase().trim();
+            renderJobs();
+        }, 200);
     });
 }
 
@@ -182,7 +186,7 @@ function renderJobs() {
 
     // Filters
     const indiaTerms = ['india', 'bangalore', 'bengaluru', 'hyderabad', 'mumbai',
-        'delhi', 'gurgaon', 'gurugram', 'noida', 'pune', 'chennai', 'kolkata', 'ahmedabad', 'kochi'];
+        'delhi', 'gurgaon', 'gurugram', 'noida', 'pune', 'chennai', 'kolkata', 'ahmedabad', 'kochi', 'jaipur'];
     const hrbpTerms = ['hrbp', 'business partner', 'talent acquisition', 'recruiting', 'recruiter', 'ta lead'];
     const compTerms = ['compensation', 'benefits', 'comp &', 'total rewards', 'payroll', 'workday compensation'];
     const ldTerms = ['learning', 'development', 'l&d', 'training', 'organisational development', 'organizational development'];
@@ -213,7 +217,7 @@ function renderJobs() {
         else if (activeFilter === 'abroad') {
             jobs = jobs.filter(j => {
                 const loc = (j.location || '').toLowerCase();
-                return !indiaTerms.some(t => loc.includes(t)) || loc.includes('remote');
+                return !indiaTerms.some(t => loc.includes(t));
             });
         }
     }
