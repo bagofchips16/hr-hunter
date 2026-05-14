@@ -1,5 +1,7 @@
 # HR Hunter
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/bagofchips16/hr-hunter)
+
 Automated HR & People role tracker. Scrapes jobs from Greenhouse, Lever, Ashby, LinkedIn, Google Careers, and Amazon Jobs — scores and ranks them for HR professionals.
 
 ## Features
