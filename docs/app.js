@@ -6,6 +6,16 @@ let allJobs = [];
 let currentData = null;
 let activeFilter = 'all';
 let searchQuery = '';
+let lastRunDate = null;
+let lastUpdatedTimer = null;
+
+function updateLastUpdated() {
+    if (!lastRunDate) return;
+    const el = document.getElementById('lastUpdated');
+    const ago = timeSince(lastRunDate);
+    const time = lastRunDate.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+    el.textContent = `Updated ${ago} (${time})`;
+}
 
 document.addEventListener('DOMContentLoaded', () => {
     loadData();
@@ -41,9 +51,10 @@ async function loadData() {
         setStatus('ready');
         const ts = data.daily_run_at || data.metadata?.timestamp;
         if (ts) {
-            const d = new Date(ts);
-            const ago = timeSince(d);
-            document.getElementById('lastUpdated').textContent = 'Updated ' + ago;
+            lastRunDate = new Date(ts);
+            updateLastUpdated();
+            clearInterval(lastUpdatedTimer);
+            lastUpdatedTimer = setInterval(updateLastUpdated, 60000);
         }
     } catch (err) {
         document.getElementById('jobsGrid').innerHTML = `
