@@ -1,0 +1,16 @@
+{
+    "name": "Khushboo Kumari",
+    "current_role": "HR Professional",
+    "current_company": "Reliance",
+    "years_of_experience": 5,
+    "target_roles": ["HR Business Partner", "Senior HR Manager", "Talent Acquisition Lead", "People Operations Manager", "HR Lead"],
+    "target_tc_lpa": 40,
+    "current_tc_lpa": 30,
+    "location_preference": ["India", "Remote"],
+    "open_to_abroad": true,
+    "specializations": ["HRBP", "Talent Acquisition", "Learning & Development", "Compensation & Benefits", "Employee Engagement", "HR Analytics", "Diversity & Inclusion"],
+    "skills": ["Talent Management", "Performance Management", "Succession Planning", "Employee Relations", "Workforce Planning", "Change Management", "HRIS", "Workday", "SAP SuccessFactors"],
+    "education": "MBA HR",
+    "linkedin_url": "",
+    "email": ""
+}

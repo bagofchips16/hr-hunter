@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HR Hunter — HR Role Tracker</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+
+<!-- Header -->
+<header class="header">
+    <div class="header-left">
+        <h1>⚡ HR Hunter</h1>
+        <div class="subtitle">HR & People Roles — HRBP / Talent Acquisition / L&D / Total Rewards</div>
+    </div>
+    <div class="header-right">
+        <span id="statusBadge" class="status-badge status-ready">● Ready</span>
+        <button id="searchBtn" class="btn btn-primary">
+            🔍 Search Now
+        </button>
+    </div>
+</header>
+
+<!-- Loading Overlay — REMOVED, replaced by inline progress panel -->
+
+<!-- Main Content -->
+<main class="main">
+
+    <!-- Progress Panel (inline, SSE-driven) -->
+    <div id="progressPanel" class="progress-panel" style="display:none;">
+        <div class="progress-header">
+            <div class="progress-phase" id="progressPhase">Initializing...</div>
+            <div class="progress-pct" id="progressPct"></div>
+        </div>
+        <div class="progress-track">
+            <div class="progress-bar" id="progressBar"></div>
+        </div>
+        <div class="source-tracker" id="sourceTracker"></div>
+    </div>
+
+    <!-- Stats Bar -->
+    <div class="stats-bar">
+        <div class="stat-card">
+            <div class="number" id="statScraped">—</div>
+            <div class="label">Total Scraped</div>
+        </div>
+        <div class="stat-card">
+            <div class="number" id="statMatched">—</div>
+            <div class="label">Above Threshold</div>
+        </div>
+        <div class="stat-card">
+            <div class="number" id="statDisplayed">—</div>
+            <div class="label">Displayed</div>
+        </div>
+        <div class="stat-card">
+            <div class="number" id="statSources">8</div>
+            <div class="label">Sources</div>
+        </div>
+        <div class="stat-card">
+            <div class="number" id="statTime">—</div>
+            <div class="label">Scan Time</div>
+        </div>
+    </div>
+
+    <!-- Source Stats -->
+    <div id="sourceStats" class="job-meta" style="margin-bottom:20px; flex-wrap:wrap;"></div>
+
+    <!-- Filters -->
+    <div class="filter-bar">
+        <button class="filter-chip active" data-filter="all">All Roles</button>
+        <button class="filter-chip" data-filter="p0">🔴 P0 — Urgent</button>
+        <button class="filter-chip" data-filter="p1">🟡 P1 — Strong</button>
+        <button class="filter-chip" data-filter="p2">🔵 P2 — Good</button>
+        <button class="filter-chip" data-filter="hr">HR / Associate</button>
+        <button class="filter-chip" data-filter="senior-hr">Senior HR / Lead</button>
+        <button class="filter-chip" data-filter="hrbp">🤝 HRBP / TA</button>
+        <button class="filter-chip" data-filter="india">🇮🇳 India</button>
+        <button class="filter-chip" data-filter="abroad">🌍 Abroad / Remote</button>
+        <button class="filter-chip" data-filter="visa">🛂 Visa Likely</button>
+    </div>
+
+    <!-- Job Cards -->
+    <div id="jobsGrid" class="jobs-grid">
+        <div class="empty-state">
+            <h2>Ready to hunt</h2>
+            <p>Click <strong>Search Now</strong> to scan LinkedIn, Greenhouse, Lever, Google Careers,
+               Amazon Jobs, and more for matching HR & People roles.</p>
+            <button class="btn btn-primary" onclick="runSearch()">🔍 Start Search</button>
+        </div>
+    </div>
+
+    <!-- Market Insights -->
+    <div id="insightsPanel" class="insights-panel" style="display:none;">
+        <h2>📊 Market Insights</h2>
+        <div class="insights-grid">
+            <div class="insight-block">
+                <h3>Hiring Trends</h3>
+                <ul id="insightsTrends"></ul>
+            </div>
+            <div class="insight-block">
+                <h3>Aggressive Hirers (HR)</h3>
+                <ul id="insightsHirers"></ul>
+            </div>
+            <div class="insight-block">
+                <h3>JD Keyword Patterns</h3>
+                <ul id="insightsPatterns"></ul>
+            </div>
+        </div>
+    </div>
+
+</main>
+
+<!-- Apply Modal -->
+<div id="applyModal" class="modal-overlay" style="display:none;">
+    <div class="modal">
+        <div class="modal-header">
+            <h2>🚀 Quick Apply</h2>
+            <button class="modal-close" onclick="closeApplyModal()">&times;</button>
+        </div>
+        <div class="modal-body" id="applyModalBody">
+            <!-- Populated by JS -->
+        </div>
+    </div>
+</div>
+
+<script src="/static/app.js"></script>
+</body>
+</html>
