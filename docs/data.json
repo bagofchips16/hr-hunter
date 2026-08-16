@@ -167,34 +167,6 @@
       "experience_note": "No experience requirement mentioned"
     },
     {
-      "title": "Sales Compensation Manager",
-      "company": "Databricks",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604610002",
-      "source": "Greenhouse",
-      "posted_date": "2026-08-15T01:14:50-04:00",
-      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Overview:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Sales Compensation Manager (L6) leads complex compensation operations workstreams that drive reliability, scalability, and risk reduction across the sales compensation function. You will own end-to-end commission administration for a large payee portfolio, ensuring flawless execution across payroll submissions, SOX compliance, exception management, and stakeholder delivery, operating at the frontier of what AI and modern tooling make possible so that automation is embedded by default, not bolted on. Operating with a 6\u201312 month horizon, you\u2019ll independently scope and solve moderately complex problems, influence Directors and Sr. Directors, and raise the bar for the team through mentorship, enablement, and operational discipline with strong automation.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The impact you will have:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own end-to-end sales compensation administration for a large payee portfolio with full accountability for accuracy, timeliness, SOX compliance, and high-quality execution across participant setup, plan distribution, calculation, payment readiness, and payroll submission.&lt;/li&gt;\n&lt;li&gt;Lead payroll submission for one or more GEOs with 100% accuracy, timeliness, and SOX compliance, including zero-pay confirmations, audit checkpoints, and evidence completeness across controls.&lt;/li&gt;\n&lt;li&gt;Proactively detect anomalies and apply conservative holds to prevent overpayment; operationalise Exception Committee items with traceable implementation and reduced exception cycle time, leveraging AI-powered anomaly detection and predictive payment risk scoring to identify issues before they reach payroll.&lt;/li&gt;\n&lt;li&gt;Validate data across source-of-truth systems (Xactly, SFDC, HRIS, Anaplan, etc.), investigate issues such as incorrect credits, quota misalignments, and payout exceptions, and deliver actionable r",
-      "seniority": "HR Manager",
-      "department": "Finance",
-      "fit_score": 67,
-      "priority": "P2",
-      "signal_strength": "High",
-      "match_reason": "Comp & Ben focus \u2014 experience with compensation frameworks and benchmarking",
-      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Databricks.",
-      "hiring_pain_point": "Designing competitive comp structures to attract and retain top talent",
-      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
-      "estimated_tc": "25-40L",
-      "interview_loop": [
-        "Recruiter Screen \u2192 Background fit + level calibration",
-        "Hiring Manager \u2192 HR expertise + strategic thinking",
-        "Stakeholder Round \u2192 Cross-functional collaboration",
-        "Final / Leadership \u2192 Culture + strategic alignment"
-      ],
-      "inmail_draft": "Hi \u2014 I'm reaching out about the Sales Compensation Manager role at Databricks. I've spent 5 years at Reliance focused on compensation and benefits strategy, where I designed and implemented compensation frameworks at Reliance, driving pay equity and competitiveness. My core strength is building total rewards programs that attract and retain top talent. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
-      "visa_note": "N/A \u2014 India-based role",
-      "experience_note": "No specific YOE requirement found"
-    },
-    {
       "title": "Sr. Manager, People Analytics",
       "company": "Levi Strauss &amp; Co.",
       "location": "Bengaluru, Karnataka, India",
@@ -305,6 +277,34 @@
       "inmail_draft": "Hi \u2014 I'm reaching out about the Head of People &amp; Culture role at Tantraedu. I've spent 5 years at Reliance focused on HR leadership, where I 5 years at Reliance leading HR initiatives across talent, engagement, and organizational development. My core strength is driving strategic people agenda that enables business growth. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
       "visa_note": "N/A \u2014 India-based role",
       "experience_note": "No experience requirement mentioned"
+    },
+    {
+      "title": "Sales Compensation Manager",
+      "company": "Databricks",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604610002",
+      "source": "Greenhouse",
+      "posted_date": "2026-08-15T01:14:50-04:00",
+      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Overview:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Sales Compensation Manager (L6) leads complex compensation operations workstreams that drive reliability, scalability, and risk reduction across the sales compensation function. You will own end-to-end commission administration for a large payee portfolio, ensuring flawless execution across payroll submissions, SOX compliance, exception management, and stakeholder delivery, operating at the frontier of what AI and modern tooling make possible so that automation is embedded by default, not bolted on. Operating with a 6\u201312 month horizon, you\u2019ll independently scope and solve moderately complex problems, influence Directors and Sr. Directors, and raise the bar for the team through mentorship, enablement, and operational discipline with strong automation.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The impact you will have:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own end-to-end sales compensation administration for a large payee portfolio with full accountability for accuracy, timeliness, SOX compliance, and high-quality execution across participant setup, plan distribution, calculation, payment readiness, and payroll submission.&lt;/li&gt;\n&lt;li&gt;Lead payroll submission for one or more GEOs with 100% accuracy, timeliness, and SOX compliance, including zero-pay confirmations, audit checkpoints, and evidence completeness across controls.&lt;/li&gt;\n&lt;li&gt;Proactively detect anomalies and apply conservative holds to prevent overpayment; operationalise Exception Committee items with traceable implementation and reduced exception cycle time, leveraging AI-powered anomaly detection and predictive payment risk scoring to identify issues before they reach payroll.&lt;/li&gt;\n&lt;li&gt;Validate data across source-of-truth systems (Xactly, SFDC, HRIS, Anaplan, etc.), investigate issues such as incorrect credits, quota misalignments, and payout exceptions, and deliver actionable r",
+      "seniority": "HR Manager",
+      "department": "Finance",
+      "fit_score": 66,
+      "priority": "P2",
+      "signal_strength": "High",
+      "match_reason": "Comp & Ben focus \u2014 experience with compensation frameworks and benchmarking",
+      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Databricks.",
+      "hiring_pain_point": "Designing competitive comp structures to attract and retain top talent",
+      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
+      "estimated_tc": "25-40L",
+      "interview_loop": [
+        "Recruiter Screen \u2192 Background fit + level calibration",
+        "Hiring Manager \u2192 HR expertise + strategic thinking",
+        "Stakeholder Round \u2192 Cross-functional collaboration",
+        "Final / Leadership \u2192 Culture + strategic alignment"
+      ],
+      "inmail_draft": "Hi \u2014 I'm reaching out about the Sales Compensation Manager role at Databricks. I've spent 5 years at Reliance focused on compensation and benefits strategy, where I designed and implemented compensation frameworks at Reliance, driving pay equity and competitiveness. My core strength is building total rewards programs that attract and retain top talent. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
+      "visa_note": "N/A \u2014 India-based role",
+      "experience_note": "No specific YOE requirement found"
     },
     {
       "title": "Employee Relations Manager",
@@ -583,6 +583,34 @@
       "experience_note": "No experience requirement mentioned"
     },
     {
+      "title": "Senior Manager - APAC Benefits_15+Yrs_Pune",
+      "company": "Global Payments Inc.",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-manager-apac-benefits-15%2Byrs-pune-at-global-payments-inc-4443916361",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-13T00:00:00",
+      "description": "",
+      "seniority": "Senior HR",
+      "department": "",
+      "fit_score": 63,
+      "priority": "P2",
+      "signal_strength": "High",
+      "match_reason": "Comp & Ben focus \u2014 experience with compensation frameworks and benchmarking",
+      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Global Payments Inc..",
+      "hiring_pain_point": "Hiring experienced HR professional to drive people strategy and operations",
+      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
+      "estimated_tc": "25-40L",
+      "interview_loop": [
+        "Recruiter Screen \u2192 Background fit + level calibration",
+        "Hiring Manager \u2192 HR expertise + strategic thinking",
+        "Stakeholder Round \u2192 Cross-functional collaboration",
+        "Final / Leadership \u2192 Culture + strategic alignment"
+      ],
+      "inmail_draft": "Hi \u2014 I'm reaching out about the Senior Manager - APAC Benefits_15+Yrs_Pune role at Global Payments Inc.. I've spent 5 years at Reliance focused on compensation and benefits strategy, where I designed and implemented compensation frameworks at Reliance, driving pay equity and competitiveness. My core strength is building total rewards programs that attract and retain top talent. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
+      "visa_note": "N/A \u2014 India-based role",
+      "experience_note": "No experience requirement mentioned"
+    },
+    {
       "title": "Sr. Analyst, People Analytics",
       "company": "Blackstone",
       "location": "Bengaluru, Karnataka, India",
@@ -719,6 +747,34 @@
         "Final / Leadership \u2192 Culture + strategic alignment"
       ],
       "inmail_draft": "Hi \u2014 I'm reaching out about the Senior Talent Acquisition Specialist role at Connor, Clark &amp; Lunn Financial Group (CC&amp;L). I've spent 5 years at Reliance focused on talent acquisition leadership, where I built and scaled hiring pipelines at Reliance, managing end-to-end recruitment across functions. My core strength is building high-performing teams through strategic talent sourcing. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
+      "visa_note": "N/A \u2014 India-based role",
+      "experience_note": "No experience requirement mentioned"
+    },
+    {
+      "title": "Senior Talent Acquisition Specialist - Operations",
+      "company": "Blitz",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-talent-acquisition-specialist-operations-at-blitz-4452963974",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-13T00:00:00",
+      "description": "",
+      "seniority": "Senior HR",
+      "department": "",
+      "fit_score": 62,
+      "priority": "P2",
+      "signal_strength": "High",
+      "match_reason": "Talent Acquisition leadership \u2014 experience building and scaling hiring pipelines",
+      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Blitz.",
+      "hiring_pain_point": "Filling critical roles fast in a competitive talent market",
+      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
+      "estimated_tc": "25-40L",
+      "interview_loop": [
+        "Recruiter Screen \u2192 Background fit + level calibration",
+        "Hiring Manager \u2192 HR expertise + strategic thinking",
+        "Stakeholder Round \u2192 Cross-functional collaboration",
+        "Final / Leadership \u2192 Culture + strategic alignment"
+      ],
+      "inmail_draft": "Hi \u2014 I'm reaching out about the Senior Talent Acquisition Specialist - Operations role at Blitz. I've spent 5 years at Reliance focused on talent acquisition leadership, where I built and scaled hiring pipelines at Reliance, managing end-to-end recruitment across functions. My core strength is building high-performing teams through strategic talent sourcing. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
       "visa_note": "N/A \u2014 India-based role",
       "experience_note": "No experience requirement mentioned"
     },
@@ -976,6 +1032,34 @@
       "experience_note": "No experience requirement mentioned"
     },
     {
+      "title": "Unit HR Head",
+      "company": "United Breweries Ltd.",
+      "location": "Mysore, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/unit-hr-head-at-united-breweries-ltd-4451211616",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-14T00:00:00",
+      "description": "",
+      "seniority": "HR Lead",
+      "department": "",
+      "fit_score": 61,
+      "priority": "P2",
+      "signal_strength": "High",
+      "match_reason": "HR leadership role \u2014 ready for next-level strategic HR ownership",
+      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at United Breweries Ltd..",
+      "hiring_pain_point": "Hiring experienced HR professional to drive people strategy and operations",
+      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
+      "estimated_tc": "25-40L",
+      "interview_loop": [
+        "Recruiter Screen \u2192 Background fit + level calibration",
+        "Hiring Manager \u2192 HR expertise + strategic thinking",
+        "Stakeholder Round \u2192 Cross-functional collaboration",
+        "Final / Leadership \u2192 Culture + strategic alignment"
+      ],
+      "inmail_draft": "Hi \u2014 I'm reaching out about the Unit HR Head role at United Breweries Ltd.. I've spent 5 years at Reliance focused on HR leadership, where I 5 years at Reliance leading HR initiatives across talent, engagement, and organizational development. My core strength is driving strategic people agenda that enables business growth. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
+      "visa_note": "N/A \u2014 India-based role",
+      "experience_note": "No experience requirement mentioned"
+    },
+    {
       "title": "HRIS Manager",
       "company": "Riverbed Technology",
       "location": "Bengaluru, Karnataka, India",
@@ -1228,34 +1312,6 @@
       "experience_note": "No experience requirement mentioned"
     },
     {
-      "title": "HR Manager",
-      "company": "Brunch Club Hospitality",
-      "location": "Lucknow, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/hr-manager-at-brunch-club-hospitality-4451730724",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-15T00:00:00",
-      "description": "",
-      "seniority": "HR Manager",
-      "department": "",
-      "fit_score": 59,
-      "priority": "P2",
-      "signal_strength": "High",
-      "match_reason": "HR role with transferable skills from 5yr corporate HR background",
-      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Brunch Club Hospitality.",
-      "hiring_pain_point": "Hiring experienced HR professional to drive people strategy and operations",
-      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
-      "estimated_tc": "25-40L",
-      "interview_loop": [
-        "Recruiter Screen \u2192 Background fit + level calibration",
-        "Hiring Manager \u2192 HR expertise + strategic thinking",
-        "Stakeholder Round \u2192 Cross-functional collaboration",
-        "Final / Leadership \u2192 Culture + strategic alignment"
-      ],
-      "inmail_draft": "Hi \u2014 I'm reaching out about the HR Manager role at Brunch Club Hospitality. I've spent 5 years at Reliance focused on HR management, where I 5 years at Reliance driving HR strategy across business partnering, talent, and employee engagement. My core strength is building people-first organizations that deliver business results. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
-      "visa_note": "N/A \u2014 India-based role",
-      "experience_note": "No experience requirement mentioned"
-    },
-    {
       "title": "Deputy Manager/Manger - Compensation &amp; Benefit",
       "company": "V-Mart Retail Ltd.",
       "location": "Gurugram, Haryana, India",
@@ -1280,34 +1336,6 @@
         "Final / Leadership \u2192 Culture + strategic alignment"
       ],
       "inmail_draft": "Hi \u2014 I'm reaching out about the Deputy Manager/Manger - Compensation &amp; Benefit role at V-Mart Retail Ltd.. I've spent 5 years at Reliance focused on compensation and benefits strategy, where I designed and implemented compensation frameworks at Reliance, driving pay equity and competitiveness. My core strength is building total rewards programs that attract and retain top talent. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
-      "visa_note": "N/A \u2014 India-based role",
-      "experience_note": "No experience requirement mentioned"
-    },
-    {
-      "title": "Manager, Compensation",
-      "company": "Ventra Health",
-      "location": "Chennai, Tamil Nadu, India",
-      "url": "https://in.linkedin.com/jobs/view/manager-compensation-at-ventra-health-4449170822",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-13T00:00:00",
-      "description": "",
-      "seniority": "HR Manager",
-      "department": "",
-      "fit_score": 59,
-      "priority": "P2",
-      "signal_strength": "High",
-      "match_reason": "Comp & Ben focus \u2014 experience with compensation frameworks and benchmarking",
-      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Ventra Health.",
-      "hiring_pain_point": "Designing competitive comp structures to attract and retain top talent",
-      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
-      "estimated_tc": "25-40L",
-      "interview_loop": [
-        "Recruiter Screen \u2192 Background fit + level calibration",
-        "Hiring Manager \u2192 HR expertise + strategic thinking",
-        "Stakeholder Round \u2192 Cross-functional collaboration",
-        "Final / Leadership \u2192 Culture + strategic alignment"
-      ],
-      "inmail_draft": "Hi \u2014 I'm reaching out about the Manager, Compensation role at Ventra Health. I've spent 5 years at Reliance focused on compensation and benefits strategy, where I designed and implemented compensation frameworks at Reliance, driving pay equity and competitiveness. My core strength is building total rewards programs that attract and retain top talent. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
       "visa_note": "N/A \u2014 India-based role",
       "experience_note": "No experience requirement mentioned"
     },
@@ -1536,6 +1564,34 @@
       "experience_note": "No experience requirement mentioned"
     },
     {
+      "title": "Assistant Manager Human Resources",
+      "company": "Amadora Gourmet Ice Cream &amp; Sorbet",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://in.linkedin.com/jobs/view/assistant-manager-human-resources-at-amadora-gourmet-ice-cream-sorbet-4450887263",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-14T00:00:00",
+      "description": "",
+      "seniority": "HR Manager",
+      "department": "",
+      "fit_score": 58,
+      "priority": "P2",
+      "signal_strength": "High",
+      "match_reason": "HR role with transferable skills from 5yr corporate HR background",
+      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Amadora Gourmet Ice Cream &amp; Sorbet.",
+      "hiring_pain_point": "Hiring experienced HR professional to drive people strategy and operations",
+      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
+      "estimated_tc": "25-40L",
+      "interview_loop": [
+        "Recruiter Screen \u2192 Background fit + level calibration",
+        "Hiring Manager \u2192 HR expertise + strategic thinking",
+        "Stakeholder Round \u2192 Cross-functional collaboration",
+        "Final / Leadership \u2192 Culture + strategic alignment"
+      ],
+      "inmail_draft": "Hi \u2014 I'm reaching out about the Assistant Manager Human Resources role at Amadora Gourmet Ice Cream &amp; Sorbet. I've spent 5 years at Reliance focused on HR management, where I 5 years at Reliance driving HR strategy across business partnering, talent, and employee engagement. My core strength is building people-first organizations that deliver business results. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
+      "visa_note": "N/A \u2014 India-based role",
+      "experience_note": "No experience requirement mentioned"
+    },
+    {
       "title": "General Manager HR &amp; Admin",
       "company": "Confidential Jobs",
       "location": "Tiruppur, Tamil Nadu, India",
@@ -1677,6 +1733,34 @@
       "experience_note": "No experience requirement mentioned"
     },
     {
+      "title": "Senior Manager, People Digital",
+      "company": "Worley",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-manager-people-digital-at-worley-4444466846",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-15T00:00:00",
+      "description": "",
+      "seniority": "Senior HR",
+      "department": "",
+      "fit_score": 57,
+      "priority": "P2",
+      "signal_strength": "High",
+      "match_reason": "HR role with transferable skills from 5yr corporate HR background",
+      "referral_advantage": "HIGH \u2014 Worley has strong alumni network. Referral path likely exists.",
+      "hiring_pain_point": "Hiring experienced HR professional to drive people strategy and operations",
+      "speed_to_hire": "MEDIUM \u2014 Consulting firm, thorough process",
+      "estimated_tc": "25-40L",
+      "interview_loop": [
+        "Recruiter Screen \u2192 Background fit + level calibration",
+        "Hiring Manager \u2192 HR expertise + strategic thinking",
+        "Stakeholder Round \u2192 Cross-functional collaboration",
+        "Final / Leadership \u2192 Culture + strategic alignment"
+      ],
+      "inmail_draft": "Hi \u2014 I'm reaching out about the Senior Manager, People Digital role at Worley. I've spent 5 years at Reliance focused on HR management, where I 5 years at Reliance driving HR strategy across business partnering, talent, and employee engagement. My core strength is building people-first organizations that deliver business results. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
+      "visa_note": "N/A \u2014 India-based role",
+      "experience_note": "No experience requirement mentioned"
+    },
+    {
       "title": "HR Business Partner, INFC - PXT",
       "company": "Amazon",
       "location": "Bengaluru, Karnataka, IND",
@@ -1759,34 +1843,6 @@
       "experience_note": "No experience requirement mentioned"
     },
     {
-      "title": "HR Manager",
-      "company": "Confidential",
-      "location": "Thoothukudi, Tamil Nadu, India",
-      "url": "https://in.linkedin.com/jobs/view/hr-manager-at-confidential-4452914055",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-13T00:00:00",
-      "description": "",
-      "seniority": "HR Manager",
-      "department": "",
-      "fit_score": 56,
-      "priority": "P2",
-      "signal_strength": "High",
-      "match_reason": "HR role with transferable skills from 5yr corporate HR background",
-      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Confidential.",
-      "hiring_pain_point": "Hiring experienced HR professional to drive people strategy and operations",
-      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
-      "estimated_tc": "25-40L",
-      "interview_loop": [
-        "Recruiter Screen \u2192 Background fit + level calibration",
-        "Hiring Manager \u2192 HR expertise + strategic thinking",
-        "Stakeholder Round \u2192 Cross-functional collaboration",
-        "Final / Leadership \u2192 Culture + strategic alignment"
-      ],
-      "inmail_draft": "Hi \u2014 I'm reaching out about the HR Manager role at Confidential. I've spent 5 years at Reliance focused on HR management, where I 5 years at Reliance driving HR strategy across business partnering, talent, and employee engagement. My core strength is building people-first organizations that deliver business results. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
-      "visa_note": "N/A \u2014 India-based role",
-      "experience_note": "No experience requirement mentioned"
-    },
-    {
       "title": "Manager Human Resources Technology",
       "company": "Apollo Tyres Ltd",
       "location": "Gurugram, Haryana, India",
@@ -1843,34 +1899,6 @@
       "experience_note": "No experience requirement mentioned"
     },
     {
-      "title": "Senior Manager, People Digital",
-      "company": "Worley",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-manager-people-digital-at-worley-4444481253",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-14T00:00:00",
-      "description": "",
-      "seniority": "Senior HR",
-      "department": "",
-      "fit_score": 56,
-      "priority": "P2",
-      "signal_strength": "High",
-      "match_reason": "HR role with transferable skills from 5yr corporate HR background",
-      "referral_advantage": "HIGH \u2014 Worley has strong alumni network. Referral path likely exists.",
-      "hiring_pain_point": "Hiring experienced HR professional to drive people strategy and operations",
-      "speed_to_hire": "MEDIUM \u2014 Consulting firm, thorough process",
-      "estimated_tc": "25-40L",
-      "interview_loop": [
-        "Recruiter Screen \u2192 Background fit + level calibration",
-        "Hiring Manager \u2192 HR expertise + strategic thinking",
-        "Stakeholder Round \u2192 Cross-functional collaboration",
-        "Final / Leadership \u2192 Culture + strategic alignment"
-      ],
-      "inmail_draft": "Hi \u2014 I'm reaching out about the Senior Manager, People Digital role at Worley. I've spent 5 years at Reliance focused on HR management, where I 5 years at Reliance driving HR strategy across business partnering, talent, and employee engagement. My core strength is building people-first organizations that deliver business results. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
-      "visa_note": "N/A \u2014 India-based role",
-      "experience_note": "No experience requirement mentioned"
-    },
-    {
       "title": "Founder Staff- Talent Acquisition and Growth",
       "company": "CynLr",
       "location": "Bengaluru, Karnataka, India",
@@ -1895,6 +1923,34 @@
         "Final / Leadership \u2192 Culture + strategic alignment"
       ],
       "inmail_draft": "Hi \u2014 I'm reaching out about the Founder Staff- Talent Acquisition and Growth role at CynLr. I've spent 5 years at Reliance focused on talent acquisition leadership, where I built and scaled hiring pipelines at Reliance, managing end-to-end recruitment across functions. My core strength is building high-performing teams through strategic talent sourcing. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
+      "visa_note": "N/A \u2014 India-based role",
+      "experience_note": "No experience requirement mentioned"
+    },
+    {
+      "title": "Learning &amp; Development Professional - BCN Academy",
+      "company": "Bain &amp; Company",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/learning-development-professional-bcn-academy-at-bain-company-4432955678",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-15T00:00:00",
+      "description": "",
+      "seniority": "HR",
+      "department": "",
+      "fit_score": 55,
+      "priority": "P2",
+      "signal_strength": "High",
+      "match_reason": "L&D / OD role \u2014 experience designing training and capability building programs",
+      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Bain &amp; Company.",
+      "hiring_pain_point": "Upskilling workforce to meet evolving business and technology needs",
+      "speed_to_hire": "MEDIUM \u2014 Consulting firm, thorough process",
+      "estimated_tc": "25-40L",
+      "interview_loop": [
+        "Recruiter Screen \u2192 Background fit + level calibration",
+        "Hiring Manager \u2192 HR expertise + strategic thinking",
+        "Stakeholder Round \u2192 Cross-functional collaboration",
+        "Final / Leadership \u2192 Culture + strategic alignment"
+      ],
+      "inmail_draft": "Hi \u2014 I'm reaching out about the Learning &amp; Development Professional - BCN Academy role at Bain &amp; Company. I've spent 5 years at Reliance focused on learning and development, where I designed capability building programs at Reliance, impacting 500+ employees across functions. My core strength is building learning ecosystems that drive business performance. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
       "visa_note": "N/A \u2014 India-based role",
       "experience_note": "No experience requirement mentioned"
     },
@@ -1925,6 +1981,35 @@
       "inmail_draft": "Hi \u2014 I'm reaching out about the Workforce Management Program Manager, YouTube role at YouTube. I've spent 5 years at Reliance focused on HR management, where I 5 years at Reliance driving HR strategy across business partnering, talent, and employee engagement. My core strength is building people-first organizations that deliver business results. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
       "visa_note": "N/A \u2014 India-based role",
       "experience_note": "No specific YOE requirement found"
+    },
+    {
+      "title": "People Consultant",
+      "company": "Google",
+      "location": "Gurgaon, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/people-consultant-at-google-4435048874",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-13T00:00:00",
+      "description": "",
+      "seniority": "HR",
+      "department": "",
+      "fit_score": 54,
+      "priority": "P3",
+      "signal_strength": "Medium",
+      "match_reason": "Big Tech \u2014 structured HR practices, strong career growth",
+      "referral_advantage": "HIGH \u2014 Google has strong alumni network. Referral path likely exists.",
+      "hiring_pain_point": "Hiring experienced HR professional to drive people strategy and operations",
+      "speed_to_hire": "MEDIUM \u2014 Big tech, structured loop (3-5 weeks typical)",
+      "estimated_tc": "55-75L",
+      "interview_loop": [
+        "Recruiter Screen \u2192 Role fit + leveling",
+        "HRBP Case Study \u2192 Strategic HR scenario",
+        "Cross-functional \u2192 Stakeholder management + influence",
+        "Googleyness & Leadership \u2192 Culture fit + leadership signals",
+        "Hiring Committee Review"
+      ],
+      "inmail_draft": "Hi \u2014 I'm reaching out about the People Consultant role at Google. I've spent 5 years at Reliance focused on HR management, where I 5 years at Reliance driving HR strategy across business partnering, talent, and employee engagement. My core strength is building people-first organizations that deliver business results. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
+      "visa_note": "N/A \u2014 India-based role",
+      "experience_note": "No experience requirement mentioned"
     },
     {
       "title": "HR - Business Partner",
@@ -2207,34 +2292,6 @@
       "experience_note": "No experience requirement mentioned"
     },
     {
-      "title": "Manager, People Business Partner",
-      "company": "Exemplar Luxury Group",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/manager-people-business-partner-at-exemplar-luxury-group-4452385933",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-13T00:00:00",
-      "description": "",
-      "seniority": "HR Manager",
-      "department": "",
-      "fit_score": 49,
-      "priority": "P3",
-      "signal_strength": "Medium",
-      "match_reason": "HR Business Partner role \u2014 direct match with strategic HR partnering experience",
-      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Exemplar Luxury Group.",
-      "hiring_pain_point": "Driving organizational effectiveness through strategic HR interventions",
-      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
-      "estimated_tc": "25-40L",
-      "interview_loop": [
-        "Recruiter Screen \u2192 Background fit + level calibration",
-        "Hiring Manager \u2192 HR expertise + strategic thinking",
-        "Stakeholder Round \u2192 Cross-functional collaboration",
-        "Final / Leadership \u2192 Culture + strategic alignment"
-      ],
-      "inmail_draft": "Hi \u2014 I'm reaching out about the Manager, People Business Partner role at Exemplar Luxury Group. I've spent 5 years at Reliance focused on strategic HR business partnering, where I partnered with business leaders at Reliance to drive people strategy across 500+ employees. My core strength is aligning HR initiatives with business outcomes. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
-      "visa_note": "N/A \u2014 India-based role",
-      "experience_note": "No experience requirement mentioned"
-    },
-    {
       "title": "People Success Business Partner",
       "company": "Searce Inc",
       "location": "Pune Division, Maharashtra, India",
@@ -2259,34 +2316,6 @@
         "Final / Leadership \u2192 Culture + strategic alignment"
       ],
       "inmail_draft": "Hi \u2014 I'm reaching out about the People Success Business Partner role at Searce Inc. I've spent 5 years at Reliance focused on strategic HR business partnering, where I partnered with business leaders at Reliance to drive people strategy across 500+ employees. My core strength is aligning HR initiatives with business outcomes. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
-      "visa_note": "N/A \u2014 India-based role",
-      "experience_note": "No experience requirement mentioned"
-    },
-    {
-      "title": "Senior Talent Partner \u2014 Leadership &amp; Strategic Global Hiring",
-      "company": "FlixStock",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-talent-partner-%E2%80%94-leadership-strategic-global-hiring-at-flixstock-4453670172",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-13T00:00:00",
-      "description": "",
-      "seniority": "Senior HR",
-      "department": "",
-      "fit_score": 49,
-      "priority": "P3",
-      "signal_strength": "Medium",
-      "match_reason": "HR role with transferable skills from 5yr corporate HR background",
-      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at FlixStock.",
-      "hiring_pain_point": "Hiring experienced HR professional to drive people strategy and operations",
-      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
-      "estimated_tc": "25-40L",
-      "interview_loop": [
-        "Recruiter Screen \u2192 Background fit + level calibration",
-        "Hiring Manager \u2192 HR expertise + strategic thinking",
-        "Stakeholder Round \u2192 Cross-functional collaboration",
-        "Final / Leadership \u2192 Culture + strategic alignment"
-      ],
-      "inmail_draft": "Hi \u2014 I'm reaching out about the Senior Talent Partner \u2014 Leadership &amp; Strategic Global Hiring role at FlixStock. I've spent 5 years at Reliance focused on HR management, where I 5 years at Reliance driving HR strategy across business partnering, talent, and employee engagement. My core strength is building people-first organizations that deliver business results. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
       "visa_note": "N/A \u2014 India-based role",
       "experience_note": "No experience requirement mentioned"
     },
@@ -2343,6 +2372,34 @@
         "Final / Leadership \u2192 Culture + strategic alignment"
       ],
       "inmail_draft": "Hi \u2014 I'm reaching out about the India Learning Lead role at ZS. I've spent 5 years at Reliance focused on learning and development, where I designed capability building programs at Reliance, impacting 500+ employees across functions. My core strength is building learning ecosystems that drive business performance. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
+      "visa_note": "N/A \u2014 India-based role",
+      "experience_note": "No experience requirement mentioned"
+    },
+    {
+      "title": "Assistant Vice President - Learning &amp; Development",
+      "company": "Puma Energy",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://in.linkedin.com/jobs/view/assistant-vice-president-learning-development-at-puma-energy-4434632108",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-14T00:00:00",
+      "description": "",
+      "seniority": "HR",
+      "department": "",
+      "fit_score": 49,
+      "priority": "P3",
+      "signal_strength": "Medium",
+      "match_reason": "L&D / OD role \u2014 experience designing training and capability building programs",
+      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Puma Energy.",
+      "hiring_pain_point": "Upskilling workforce to meet evolving business and technology needs",
+      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
+      "estimated_tc": "25-40L",
+      "interview_loop": [
+        "Recruiter Screen \u2192 Background fit + level calibration",
+        "Hiring Manager \u2192 HR expertise + strategic thinking",
+        "Stakeholder Round \u2192 Cross-functional collaboration",
+        "Final / Leadership \u2192 Culture + strategic alignment"
+      ],
+      "inmail_draft": "Hi \u2014 I'm reaching out about the Assistant Vice President - Learning &amp; Development role at Puma Energy. I've spent 5 years at Reliance focused on learning and development, where I designed capability building programs at Reliance, impacting 500+ employees across functions. My core strength is building learning ecosystems that drive business performance. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
       "visa_note": "N/A \u2014 India-based role",
       "experience_note": "No experience requirement mentioned"
     },
@@ -2515,34 +2572,6 @@
       "experience_note": "No experience requirement mentioned"
     },
     {
-      "title": "Learning Business Partner",
-      "company": "NCR Atleos",
-      "location": "Chennai, Tamil Nadu, India",
-      "url": "https://in.linkedin.com/jobs/view/learning-business-partner-at-ncr-atleos-4450812304",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-13T00:00:00",
-      "description": "",
-      "seniority": "HR",
-      "department": "",
-      "fit_score": 47,
-      "priority": "P3",
-      "signal_strength": "Medium",
-      "match_reason": "HR Business Partner role \u2014 direct match with strategic HR partnering experience | L&D / OD role \u2014 experience designing training and capability building programs",
-      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at NCR Atleos.",
-      "hiring_pain_point": "Driving organizational effectiveness through strategic HR interventions",
-      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
-      "estimated_tc": "25-40L",
-      "interview_loop": [
-        "Recruiter Screen \u2192 Background fit + level calibration",
-        "Hiring Manager \u2192 HR expertise + strategic thinking",
-        "Stakeholder Round \u2192 Cross-functional collaboration",
-        "Final / Leadership \u2192 Culture + strategic alignment"
-      ],
-      "inmail_draft": "Hi \u2014 I'm reaching out about the Learning Business Partner role at NCR Atleos. I've spent 5 years at Reliance focused on strategic HR business partnering, where I partnered with business leaders at Reliance to drive people strategy across 500+ employees. My core strength is aligning HR initiatives with business outcomes. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
-      "visa_note": "N/A \u2014 India-based role",
-      "experience_note": "No experience requirement mentioned"
-    },
-    {
       "title": " Lead, Compensation - Engineering & Product",
       "company": "Pinterest",
       "location": "San Francisco, CA, US; Remote, US",
@@ -2571,6 +2600,34 @@
       "experience_note": "No specific YOE requirement found"
     },
     {
+      "title": "Senior Manager, HR Technology Programs",
+      "company": "Healthfirst",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/senior-manager-hr-technology-programs-at-healthfirst-4416185292",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-15T00:00:00",
+      "description": "",
+      "seniority": "Senior HR",
+      "department": "",
+      "fit_score": 71,
+      "priority": "P1",
+      "signal_strength": "High",
+      "match_reason": "HR role with transferable skills from 5yr corporate HR background",
+      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Healthfirst.",
+      "hiring_pain_point": "Hiring experienced HR professional to drive people strategy and operations",
+      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
+      "estimated_tc": "25-40L",
+      "interview_loop": [
+        "Recruiter Screen \u2192 Background fit + level calibration",
+        "Hiring Manager \u2192 HR expertise + strategic thinking",
+        "Stakeholder Round \u2192 Cross-functional collaboration",
+        "Final / Leadership \u2192 Culture + strategic alignment"
+      ],
+      "inmail_draft": "Hi \u2014 I'm reaching out about the Senior Manager, HR Technology Programs role at Healthfirst. I've spent 5 years at Reliance focused on HR management, where I 5 years at Reliance driving HR strategy across business partnering, talent, and employee engagement. My core strength is building people-first organizations that deliver business results. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
+      "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
+      "experience_note": "No experience requirement mentioned"
+    },
+    {
       "title": "Director, Compensation",
       "company": "Databricks",
       "location": "United States",
@@ -2597,6 +2654,34 @@
       "inmail_draft": "Hi \u2014 I'm reaching out about the Director, Compensation role at Databricks. I've spent 5 years at Reliance focused on compensation and benefits strategy, where I designed and implemented compensation frameworks at Reliance, driving pay equity and competitiveness. My core strength is building total rewards programs that attract and retain top talent. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
       "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
       "experience_note": "No specific YOE requirement found"
+    },
+    {
+      "title": "Senior Compensation and Benefits Specialist - EMEA",
+      "company": "Infosys",
+      "location": "London, England, United Kingdom",
+      "url": "https://uk.linkedin.com/jobs/view/senior-compensation-and-benefits-specialist-emea-at-infosys-4431966223",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-15T00:00:00",
+      "description": "",
+      "seniority": "Senior HR",
+      "department": "",
+      "fit_score": 70,
+      "priority": "P1",
+      "signal_strength": "High",
+      "match_reason": "Comp & Ben focus \u2014 experience with compensation frameworks and benchmarking",
+      "referral_advantage": "HIGH \u2014 Infosys has strong alumni network. Referral path likely exists.",
+      "hiring_pain_point": "Designing competitive comp structures to attract and retain top talent",
+      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
+      "estimated_tc": "25-40L",
+      "interview_loop": [
+        "Recruiter Screen \u2192 Background fit + level calibration",
+        "Hiring Manager \u2192 HR expertise + strategic thinking",
+        "Stakeholder Round \u2192 Cross-functional collaboration",
+        "Final / Leadership \u2192 Culture + strategic alignment"
+      ],
+      "inmail_draft": "Hi \u2014 I'm reaching out about the Senior Compensation and Benefits Specialist - EMEA role at Infosys. I've spent 5 years at Reliance focused on compensation and benefits strategy, where I designed and implemented compensation frameworks at Reliance, driving pay equity and competitiveness. My core strength is building total rewards programs that attract and retain top talent. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
+      "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
+      "experience_note": "No experience requirement mentioned"
     },
     {
       "title": "Senior Manager Total Rewards Benelux &amp; Nordics (Compensation &amp; Benefits)",
@@ -2990,62 +3075,6 @@
       "experience_note": "No experience requirement mentioned"
     },
     {
-      "title": "Compensation &amp; Benefits Manager (A Healthcare Services Company)",
-      "company": "Wilson",
-      "location": "Singapore, Singapore",
-      "url": "https://sg.linkedin.com/jobs/view/compensation-benefits-manager-a-healthcare-services-company-at-wilson-4452906204",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-13T00:00:00",
-      "description": "",
-      "seniority": "HR Manager",
-      "department": "",
-      "fit_score": 62,
-      "priority": "P2",
-      "signal_strength": "High",
-      "match_reason": "Comp & Ben focus \u2014 experience with compensation frameworks and benchmarking",
-      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Wilson.",
-      "hiring_pain_point": "Designing competitive comp structures to attract and retain top talent",
-      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
-      "estimated_tc": "25-40L",
-      "interview_loop": [
-        "Recruiter Screen \u2192 Background fit + level calibration",
-        "Hiring Manager \u2192 HR expertise + strategic thinking",
-        "Stakeholder Round \u2192 Cross-functional collaboration",
-        "Final / Leadership \u2192 Culture + strategic alignment"
-      ],
-      "inmail_draft": "Hi \u2014 I'm reaching out about the Compensation &amp; Benefits Manager (A Healthcare Services Company) role at Wilson. I've spent 5 years at Reliance focused on compensation and benefits strategy, where I designed and implemented compensation frameworks at Reliance, driving pay equity and competitiveness. My core strength is building total rewards programs that attract and retain top talent. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
-      "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
-      "experience_note": "No experience requirement mentioned"
-    },
-    {
-      "title": "Compensation Benefits Manager",
-      "company": "HRIT People",
-      "location": "London Area, United Kingdom",
-      "url": "https://uk.linkedin.com/jobs/view/compensation-benefits-manager-at-hrit-people-4448108262",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-13T00:00:00",
-      "description": "",
-      "seniority": "HR Manager",
-      "department": "",
-      "fit_score": 62,
-      "priority": "P2",
-      "signal_strength": "High",
-      "match_reason": "Comp & Ben focus \u2014 experience with compensation frameworks and benchmarking",
-      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at HRIT People.",
-      "hiring_pain_point": "Designing competitive comp structures to attract and retain top talent",
-      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
-      "estimated_tc": "25-40L",
-      "interview_loop": [
-        "Recruiter Screen \u2192 Background fit + level calibration",
-        "Hiring Manager \u2192 HR expertise + strategic thinking",
-        "Stakeholder Round \u2192 Cross-functional collaboration",
-        "Final / Leadership \u2192 Culture + strategic alignment"
-      ],
-      "inmail_draft": "Hi \u2014 I'm reaching out about the Compensation Benefits Manager role at HRIT People. I've spent 5 years at Reliance focused on compensation and benefits strategy, where I designed and implemented compensation frameworks at Reliance, driving pay equity and competitiveness. My core strength is building total rewards programs that attract and retain top talent. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
-      "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
-      "experience_note": "No experience requirement mentioned"
-    },
-    {
       "title": "Total Rewards &amp; Compensation Manager | PGIM Ireland",
       "company": "PGIM Ireland",
       "location": "Letterkenny, County Donegal, Ireland",
@@ -3074,22 +3103,22 @@
       "experience_note": "No experience requirement mentioned"
     },
     {
-      "title": "Lead, Compensation &amp; Benefits - Australia",
-      "company": "Tronox",
-      "location": "Kwinana Beach, Western Australia, Australia",
-      "url": "https://au.linkedin.com/jobs/view/lead-compensation-benefits-australia-at-tronox-4432332504",
+      "title": "Benefits Manager - UK&amp;I",
+      "company": "EY",
+      "location": "Cambridge, England, United Kingdom",
+      "url": "https://uk.linkedin.com/jobs/view/benefits-manager-uk-i-at-ey-4451770013",
       "source": "LinkedIn",
-      "posted_date": "2026-08-13T00:00:00",
+      "posted_date": "2026-08-16T00:00:00",
       "description": "",
-      "seniority": "HR Lead",
+      "seniority": "HR Manager",
       "department": "",
       "fit_score": 62,
       "priority": "P2",
       "signal_strength": "High",
       "match_reason": "Comp & Ben focus \u2014 experience with compensation frameworks and benchmarking",
-      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Tronox.",
-      "hiring_pain_point": "Designing competitive comp structures to attract and retain top talent",
-      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
+      "referral_advantage": "HIGH \u2014 EY has strong alumni network. Referral path likely exists.",
+      "hiring_pain_point": "Hiring experienced HR professional to drive people strategy and operations",
+      "speed_to_hire": "MEDIUM \u2014 Consulting firm, thorough process",
       "estimated_tc": "25-40L",
       "interview_loop": [
         "Recruiter Screen \u2192 Background fit + level calibration",
@@ -3097,8 +3126,8 @@
         "Stakeholder Round \u2192 Cross-functional collaboration",
         "Final / Leadership \u2192 Culture + strategic alignment"
       ],
-      "inmail_draft": "Hi \u2014 I'm reaching out about the Lead, Compensation &amp; Benefits - Australia role at Tronox. I've spent 5 years at Reliance focused on compensation and benefits strategy, where I designed and implemented compensation frameworks at Reliance, driving pay equity and competitiveness. My core strength is building total rewards programs that attract and retain top talent. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
-      "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
+      "inmail_draft": "Hi \u2014 I'm reaching out about the Benefits Manager - UK&amp;I role at EY. I've spent 5 years at Reliance focused on compensation and benefits strategy, where I designed and implemented compensation frameworks at Reliance, driving pay equity and competitiveness. My core strength is building total rewards programs that attract and retain top talent. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
+      "visa_note": "\u2705 LIKELY \u2014 Large company, typically sponsors visas",
       "experience_note": "No experience requirement mentioned"
     },
     {
@@ -4362,6 +4391,34 @@
       "experience_note": "No experience requirement mentioned"
     },
     {
+      "title": "Head of People",
+      "company": "Zachary Daniels",
+      "location": "Stockport, England, United Kingdom",
+      "url": "https://uk.linkedin.com/jobs/view/head-of-people-at-zachary-daniels-4453579618",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-14T00:00:00",
+      "description": "",
+      "seniority": "HR Lead",
+      "department": "",
+      "fit_score": 55,
+      "priority": "P2",
+      "signal_strength": "High",
+      "match_reason": "HR leadership role \u2014 ready for next-level strategic HR ownership",
+      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Zachary Daniels.",
+      "hiring_pain_point": "Hiring experienced HR professional to drive people strategy and operations",
+      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
+      "estimated_tc": "25-40L",
+      "interview_loop": [
+        "Recruiter Screen \u2192 Background fit + level calibration",
+        "Hiring Manager \u2192 HR expertise + strategic thinking",
+        "Stakeholder Round \u2192 Cross-functional collaboration",
+        "Final / Leadership \u2192 Culture + strategic alignment"
+      ],
+      "inmail_draft": "Hi \u2014 I'm reaching out about the Head of People role at Zachary Daniels. I've spent 5 years at Reliance focused on HR leadership, where I 5 years at Reliance leading HR initiatives across talent, engagement, and organizational development. My core strength is driving strategic people agenda that enables business growth. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
+      "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
+      "experience_note": "No experience requirement mentioned"
+    },
+    {
       "title": "Human Resources Director",
       "company": "Trystar",
       "location": "Burnsville, MN",
@@ -4614,76 +4671,20 @@
       "experience_note": "No experience requirement mentioned"
     },
     {
-      "title": "IT HRIS Manager",
-      "company": "UC Health",
-      "location": "Cincinnati, OH",
-      "url": "https://www.linkedin.com/jobs/view/it-hris-manager-at-uc-health-4404897814",
+      "title": "Regional HR Manager",
+      "company": "Kaizen Gaming",
+      "location": "Sliema, Sliema, Malta",
+      "url": "https://mt.linkedin.com/jobs/view/regional-hr-manager-at-kaizen-gaming-4426238498",
       "source": "LinkedIn",
-      "posted_date": "2026-08-13T00:00:00",
+      "posted_date": "2026-08-15T00:00:00",
       "description": "",
       "seniority": "HR Manager",
       "department": "",
       "fit_score": 54,
       "priority": "P3",
       "signal_strength": "Medium",
-      "match_reason": "HR Tech / Analytics \u2014 data-driven HR approach with HRIS experience",
-      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at UC Health.",
-      "hiring_pain_point": "Implementing / optimizing HRIS to streamline HR operations",
-      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
-      "estimated_tc": "25-40L",
-      "interview_loop": [
-        "Recruiter Screen \u2192 Background fit + level calibration",
-        "Hiring Manager \u2192 HR expertise + strategic thinking",
-        "Stakeholder Round \u2192 Cross-functional collaboration",
-        "Final / Leadership \u2192 Culture + strategic alignment"
-      ],
-      "inmail_draft": "Hi \u2014 I'm reaching out about the IT HRIS Manager role at UC Health. I've spent 5 years at Reliance focused on HR analytics and technology, where I leveraged HR data and HRIS tools at Reliance to drive evidence-based people decisions. My core strength is turning HR data into actionable business insights. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
-      "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
-      "experience_note": "No experience requirement mentioned"
-    },
-    {
-      "title": "Workday HRIS Manager",
-      "company": "ICON plc",
-      "location": "Reading, England, United Kingdom",
-      "url": "https://uk.linkedin.com/jobs/view/workday-hris-manager-at-icon-plc-4443185667",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-13T00:00:00",
-      "description": "",
-      "seniority": "HR Manager",
-      "department": "",
-      "fit_score": 54,
-      "priority": "P3",
-      "signal_strength": "Medium",
-      "match_reason": "HR Tech / Analytics \u2014 data-driven HR approach with HRIS experience",
-      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at ICON plc.",
-      "hiring_pain_point": "Implementing / optimizing HRIS to streamline HR operations",
-      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
-      "estimated_tc": "25-40L",
-      "interview_loop": [
-        "Recruiter Screen \u2192 Background fit + level calibration",
-        "Hiring Manager \u2192 HR expertise + strategic thinking",
-        "Stakeholder Round \u2192 Cross-functional collaboration",
-        "Final / Leadership \u2192 Culture + strategic alignment"
-      ],
-      "inmail_draft": "Hi \u2014 I'm reaching out about the Workday HRIS Manager role at ICON plc. I've spent 5 years at Reliance focused on HR analytics and technology, where I leveraged HR data and HRIS tools at Reliance to drive evidence-based people decisions. My core strength is turning HR data into actionable business insights. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
-      "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
-      "experience_note": "No experience requirement mentioned"
-    },
-    {
-      "title": "Head of Human Resources",
-      "company": "Adecco",
-      "location": "Surat Thani, Thailand",
-      "url": "https://th.linkedin.com/jobs/view/head-of-human-resources-at-adecco-4452780572",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-13T00:00:00",
-      "description": "",
-      "seniority": "HR Lead",
-      "department": "",
-      "fit_score": 54,
-      "priority": "P3",
-      "signal_strength": "Medium",
-      "match_reason": "HR leadership role \u2014 ready for next-level strategic HR ownership",
-      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Adecco.",
+      "match_reason": "HR role with transferable skills from 5yr corporate HR background",
+      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Kaizen Gaming.",
       "hiring_pain_point": "Hiring experienced HR professional to drive people strategy and operations",
       "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
       "estimated_tc": "25-40L",
@@ -4693,7 +4694,7 @@
         "Stakeholder Round \u2192 Cross-functional collaboration",
         "Final / Leadership \u2192 Culture + strategic alignment"
       ],
-      "inmail_draft": "Hi \u2014 I'm reaching out about the Head of Human Resources role at Adecco. I've spent 5 years at Reliance focused on HR leadership, where I 5 years at Reliance leading HR initiatives across talent, engagement, and organizational development. My core strength is driving strategic people agenda that enables business growth. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
+      "inmail_draft": "Hi \u2014 I'm reaching out about the Regional HR Manager role at Kaizen Gaming. I've spent 5 years at Reliance focused on HR management, where I 5 years at Reliance driving HR strategy across business partnering, talent, and employee engagement. My core strength is building people-first organizations that deliver business results. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
       "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
       "experience_note": "No experience requirement mentioned"
     },
@@ -5146,34 +5147,6 @@
       "experience_note": "No experience requirement mentioned"
     },
     {
-      "title": "HR Manager (Multi Site)",
-      "company": "DSV - Global Transport and Logistics",
-      "location": "Carson City, NV",
-      "url": "https://www.linkedin.com/jobs/view/hr-manager-multi-site-at-dsv-global-transport-and-logistics-4434690342",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-14T00:00:00",
-      "description": "",
-      "seniority": "HR Manager",
-      "department": "",
-      "fit_score": 52,
-      "priority": "P3",
-      "signal_strength": "Medium",
-      "match_reason": "HR role with transferable skills from 5yr corporate HR background",
-      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at DSV - Global Transport and Logistics.",
-      "hiring_pain_point": "Hiring experienced HR professional to drive people strategy and operations",
-      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
-      "estimated_tc": "25-40L",
-      "interview_loop": [
-        "Recruiter Screen \u2192 Background fit + level calibration",
-        "Hiring Manager \u2192 HR expertise + strategic thinking",
-        "Stakeholder Round \u2192 Cross-functional collaboration",
-        "Final / Leadership \u2192 Culture + strategic alignment"
-      ],
-      "inmail_draft": "Hi \u2014 I'm reaching out about the HR Manager (Multi Site) role at DSV - Global Transport and Logistics. I've spent 5 years at Reliance focused on HR management, where I 5 years at Reliance driving HR strategy across business partnering, talent, and employee engagement. My core strength is building people-first organizations that deliver business results. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
-      "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
-      "experience_note": "No experience requirement mentioned"
-    },
-    {
       "title": "People Consultant",
       "company": "Stripe",
       "location": "Mexico City",
@@ -5282,6 +5255,34 @@
         "Final / Leadership \u2192 Culture + strategic alignment"
       ],
       "inmail_draft": "Hi \u2014 I'm reaching out about the Senior People Partner role at Center Parcs UK &amp; Ireland. I've spent 5 years at Reliance focused on HR management, where I 5 years at Reliance driving HR strategy across business partnering, talent, and employee engagement. My core strength is building people-first organizations that deliver business results. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
+      "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
+      "experience_note": "No experience requirement mentioned"
+    },
+    {
+      "title": "Leadership and Management Development Manager",
+      "company": "DfT Operator",
+      "location": "London, England, United Kingdom",
+      "url": "https://uk.linkedin.com/jobs/view/leadership-and-management-development-manager-at-dft-operator-4453983153",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-16T00:00:00",
+      "description": "",
+      "seniority": "HR Lead",
+      "department": "",
+      "fit_score": 51,
+      "priority": "P3",
+      "signal_strength": "Medium",
+      "match_reason": "L&D / OD role \u2014 experience designing training and capability building programs",
+      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at DfT Operator.",
+      "hiring_pain_point": "Building leadership pipeline and succession readiness",
+      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
+      "estimated_tc": "25-40L",
+      "interview_loop": [
+        "Recruiter Screen \u2192 Background fit + level calibration",
+        "Hiring Manager \u2192 HR expertise + strategic thinking",
+        "Stakeholder Round \u2192 Cross-functional collaboration",
+        "Final / Leadership \u2192 Culture + strategic alignment"
+      ],
+      "inmail_draft": "Hi \u2014 I'm reaching out about the Leadership and Management Development Manager role at DfT Operator. I've spent 5 years at Reliance focused on HR management, where I 5 years at Reliance driving HR strategy across business partnering, talent, and employee engagement. My core strength is building people-first organizations that deliver business results. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
       "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
       "experience_note": "No experience requirement mentioned"
     },
@@ -5506,62 +5507,6 @@
         "Final / Leadership \u2192 Culture + strategic alignment"
       ],
       "inmail_draft": "Hi \u2014 I'm reaching out about the Manager, Digital Learning (Systems) role at Bain &amp; Company. I've spent 5 years at Reliance focused on learning and development, where I designed capability building programs at Reliance, impacting 500+ employees across functions. My core strength is building learning ecosystems that drive business performance. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
-      "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
-      "experience_note": "No experience requirement mentioned"
-    },
-    {
-      "title": "Human Resource Director",
-      "company": "Australian Taxation Office",
-      "location": "Adelaide, South Australia, Australia",
-      "url": "https://au.linkedin.com/jobs/view/human-resource-director-at-australian-taxation-office-4452798473",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-13T00:00:00",
-      "description": "",
-      "seniority": "HR Lead",
-      "department": "",
-      "fit_score": 50,
-      "priority": "P3",
-      "signal_strength": "Medium",
-      "match_reason": "HR leadership role \u2014 ready for next-level strategic HR ownership",
-      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Australian Taxation Office.",
-      "hiring_pain_point": "Hiring experienced HR professional to drive people strategy and operations",
-      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
-      "estimated_tc": "25-40L",
-      "interview_loop": [
-        "Recruiter Screen \u2192 Background fit + level calibration",
-        "Hiring Manager \u2192 HR expertise + strategic thinking",
-        "Stakeholder Round \u2192 Cross-functional collaboration",
-        "Final / Leadership \u2192 Culture + strategic alignment"
-      ],
-      "inmail_draft": "Hi \u2014 I'm reaching out about the Human Resource Director role at Australian Taxation Office. I've spent 5 years at Reliance focused on HR leadership, where I 5 years at Reliance leading HR initiatives across talent, engagement, and organizational development. My core strength is driving strategic people agenda that enables business growth. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
-      "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
-      "experience_note": "No experience requirement mentioned"
-    },
-    {
-      "title": "Human Resource Director",
-      "company": "Australian Taxation Office",
-      "location": "Hobart, Tasmania, Australia",
-      "url": "https://au.linkedin.com/jobs/view/human-resource-director-at-australian-taxation-office-4452786641",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-13T00:00:00",
-      "description": "",
-      "seniority": "HR Lead",
-      "department": "",
-      "fit_score": 50,
-      "priority": "P3",
-      "signal_strength": "Medium",
-      "match_reason": "HR leadership role \u2014 ready for next-level strategic HR ownership",
-      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Australian Taxation Office.",
-      "hiring_pain_point": "Hiring experienced HR professional to drive people strategy and operations",
-      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
-      "estimated_tc": "25-40L",
-      "interview_loop": [
-        "Recruiter Screen \u2192 Background fit + level calibration",
-        "Hiring Manager \u2192 HR expertise + strategic thinking",
-        "Stakeholder Round \u2192 Cross-functional collaboration",
-        "Final / Leadership \u2192 Culture + strategic alignment"
-      ],
-      "inmail_draft": "Hi \u2014 I'm reaching out about the Human Resource Director role at Australian Taxation Office. I've spent 5 years at Reliance focused on HR leadership, where I 5 years at Reliance leading HR initiatives across talent, engagement, and organizational development. My core strength is driving strategic people agenda that enables business growth. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
       "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
       "experience_note": "No experience requirement mentioned"
     },
@@ -5844,6 +5789,34 @@
       "inmail_draft": "Hi \u2014 I'm reaching out about the Recruiter, AI/ML Research role at OpenAI. I've spent 5 years at Reliance focused on HR management, where I 5 years at Reliance driving HR strategy across business partnering, talent, and employee engagement. My core strength is building people-first organizations that deliver business results. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
       "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
       "experience_note": "No specific YOE requirement found"
+    },
+    {
+      "title": "People Systems Lead",
+      "company": "Contentsquare",
+      "location": "London Area, United Kingdom",
+      "url": "https://uk.linkedin.com/jobs/view/people-systems-lead-at-contentsquare-4433180154",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-14T00:00:00",
+      "description": "",
+      "seniority": "HR Lead",
+      "department": "",
+      "fit_score": 48,
+      "priority": "P3",
+      "signal_strength": "Medium",
+      "match_reason": "HR role with transferable skills from 5yr corporate HR background",
+      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Contentsquare.",
+      "hiring_pain_point": "Hiring experienced HR professional to drive people strategy and operations",
+      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
+      "estimated_tc": "25-40L",
+      "interview_loop": [
+        "Recruiter Screen \u2192 Background fit + level calibration",
+        "Hiring Manager \u2192 HR expertise + strategic thinking",
+        "Stakeholder Round \u2192 Cross-functional collaboration",
+        "Final / Leadership \u2192 Culture + strategic alignment"
+      ],
+      "inmail_draft": "Hi \u2014 I'm reaching out about the People Systems Lead role at Contentsquare. I've spent 5 years at Reliance focused on HR management, where I 5 years at Reliance driving HR strategy across business partnering, talent, and employee engagement. My core strength is building people-first organizations that deliver business results. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
+      "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
+      "experience_note": "No experience requirement mentioned"
     },
     {
       "title": "Sr. Developer Advocate, AI and Machine Learning",
@@ -6598,6 +6571,34 @@
         "Final / Leadership \u2192 Culture + strategic alignment"
       ],
       "inmail_draft": "Hi \u2014 I'm reaching out about the People Systems Lead (Workday) role at Corsearch. I've spent 5 years at Reliance focused on HR management, where I 5 years at Reliance driving HR strategy across business partnering, talent, and employee engagement. My core strength is building people-first organizations that deliver business results. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
+      "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
+      "experience_note": "No experience requirement mentioned"
+    },
+    {
+      "title": "Director of Talent, Capability &amp; Performance",
+      "company": "THE ICONIC",
+      "location": "Barangaroo, New South Wales, Australia",
+      "url": "https://au.linkedin.com/jobs/view/director-of-talent-capability-performance-at-the-iconic-4450857844",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-14T00:00:00",
+      "description": "",
+      "seniority": "HR Lead",
+      "department": "",
+      "fit_score": 46,
+      "priority": "P3",
+      "signal_strength": "Medium",
+      "match_reason": "HR leadership role \u2014 ready for next-level strategic HR ownership",
+      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at THE ICONIC.",
+      "hiring_pain_point": "Hiring experienced HR professional to drive people strategy and operations",
+      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
+      "estimated_tc": "25-40L",
+      "interview_loop": [
+        "Recruiter Screen \u2192 Background fit + level calibration",
+        "Hiring Manager \u2192 HR expertise + strategic thinking",
+        "Stakeholder Round \u2192 Cross-functional collaboration",
+        "Final / Leadership \u2192 Culture + strategic alignment"
+      ],
+      "inmail_draft": "Hi \u2014 I'm reaching out about the Director of Talent, Capability &amp; Performance role at THE ICONIC. I've spent 5 years at Reliance focused on HR leadership, where I 5 years at Reliance leading HR initiatives across talent, engagement, and organizational development. My core strength is driving strategic people agenda that enables business growth. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
       "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
       "experience_note": "No experience requirement mentioned"
     },
@@ -9458,34 +9459,6 @@
       "experience_note": "No specific YOE requirement found"
     },
     {
-      "title": "Senior Machine Learning Engineer, Recommendations",
-      "company": "Lyft",
-      "location": "Toronto, Canada",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8603653002?gh_jid=8603653002",
-      "source": "Greenhouse",
-      "posted_date": "2026-08-13T23:10:30-04:00",
-      "description": "&lt;p&gt;At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.&lt;/p&gt;\n&lt;p&gt;With a billion rides per year and counting, Lyft is solving hard problems in a rapidly growing domain with a lot of data and creative solutions in Rider, Marketplace, Growth, and beyond. While traditional approaches to optimization and problem decomposition are sufficient to disrupt transportation, building a next-generation platform for low-cost, ultra-immersive transportation to improve people&#39;s lives warrants modern ML utilizing peta-byte scale data. Our highly motivated Machine Learning Engineers work on these challenging problems and define solutions to directly impact various aspects of our core business.&lt;/p&gt;\n&lt;p&gt;If you are a critical thinker with experience in machine learning workflows and LLMs, passionate about solving business problems using data and working in a dynamic, creative, and collaborative environment, we are searching for you.&lt;/p&gt;\n&lt;p&gt;We are seeking a &lt;strong&gt;Senior Machine Learning Engineer&lt;/strong&gt; to join the Rider Applied AI team and lead the design, development, and deployment of state-of-the-art machine learning and artificial intelligence systems. This role requires a strategic thinker who can balance high-level system architecture with hands-on technical implementation. You will collaborate across teams to shape the future of ride-sharing by leveraging AI, Machine learning and Data science.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Model Development &amp;amp; Research:&lt;/strong&gt;&amp;nbsp;Design, build, and deploy machine learning models for real-time applications, including translating state-of-the-art research into production-ready solutions.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;System Design:&lt;/strong&gt;&amp;nbsp;Architect scalab",
-      "seniority": "Senior HR",
-      "department": "Rider",
-      "fit_score": 40,
-      "priority": "P3",
-      "signal_strength": "Medium",
-      "match_reason": "L&D / OD role \u2014 experience designing training and capability building programs",
-      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Lyft.",
-      "hiring_pain_point": "Upskilling workforce to meet evolving business and technology needs",
-      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
-      "estimated_tc": "25-40L",
-      "interview_loop": [
-        "Recruiter Screen \u2192 Background fit + level calibration",
-        "Hiring Manager \u2192 HR expertise + strategic thinking",
-        "Stakeholder Round \u2192 Cross-functional collaboration",
-        "Final / Leadership \u2192 Culture + strategic alignment"
-      ],
-      "inmail_draft": "Hi \u2014 I'm reaching out about the Senior Machine Learning Engineer, Recommendations role at Lyft. I've spent 5 years at Reliance focused on learning and development, where I designed capability building programs at Reliance, impacting 500+ employees across functions. My core strength is building learning ecosystems that drive business performance. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
-      "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
-      "experience_note": "No specific YOE requirement found"
-    },
-    {
       "title": "Engineering Manager I, Threat Detection",
       "company": "Datadog",
       "location": "New York, New York, USA",
@@ -9510,62 +9483,6 @@
         "Final / Leadership \u2192 Culture + strategic alignment"
       ],
       "inmail_draft": "Hi \u2014 I'm reaching out about the Engineering Manager I, Threat Detection role at Datadog. I've spent 5 years at Reliance focused on HR management, where I 5 years at Reliance driving HR strategy across business partnering, talent, and employee engagement. My core strength is building people-first organizations that deliver business results. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
-      "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
-      "experience_note": "No specific YOE requirement found"
-    },
-    {
-      "title": "Strategic Partner Development, Data & Product Partnerships \u2013 Beneficial Deployments",
-      "company": "Anthropic",
-      "location": "San Francisco, CA | New York City, NY",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390022008",
-      "source": "Greenhouse",
-      "posted_date": "2026-08-13T23:59:26-04:00",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Anthropic&#39;s Beneficial Deployments team works to bring Claude to high-impact areas such as global health, life sciences, education and economic mobility, largely through partnerships with the organizations already working in those fields. Many of those partnerships involve data or product partnerships to bring Beneficial Deployment impact to bear. The Strategic Data Partnerships team is responsible for structuring and closing those agreements, and we are hiring a business development lead dedicated to this work.&lt;/p&gt;\n&lt;p&gt;You will support the deal work from ideation through signature: scoping what a partner and Anthropic actually want to do together, designing a structure that works for both sides, negotiating the terms and making sure we honour them afterwards. You will work every day with the Beneficial Deployments partner managers who own these relationships, with our legal team, and with the research and product teams who will put the data or the integration to use.&lt;/p&gt;\n&lt;p&gt;This is not a sales role. It is a deal-making role for someone who enjoys structuring strategic business development, is comfortable with deal strategy &amp;amp; operations, and wants that work to matter beyond the commercial outcome.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p&gt;&lt;strong&gt;Structure and close partnerships.&lt;/strong&gt; Work with our partner managers and legal",
-      "seniority": "HR",
-      "department": "Product Management, Support, & Operations",
-      "fit_score": 40,
-      "priority": "P3",
-      "signal_strength": "Medium",
-      "match_reason": "L&D / OD role \u2014 experience designing training and capability building programs",
-      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Anthropic.",
-      "hiring_pain_point": "Building leadership pipeline and succession readiness",
-      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
-      "estimated_tc": "25-40L",
-      "interview_loop": [
-        "Recruiter Screen \u2192 Background fit + level calibration",
-        "Hiring Manager \u2192 HR expertise + strategic thinking",
-        "Stakeholder Round \u2192 Cross-functional collaboration",
-        "Final / Leadership \u2192 Culture + strategic alignment"
-      ],
-      "inmail_draft": "Hi \u2014 I'm reaching out about the Strategic Partner Development, Data & Product Partnerships \u2013 Beneficial Deployments role at Anthropic. I've spent 5 years at Reliance focused on HR management, where I 5 years at Reliance driving HR strategy across business partnering, talent, and employee engagement. My core strength is building people-first organizations that deliver business results. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
-      "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
-      "experience_note": "No specific YOE requirement found"
-    },
-    {
-      "title": "Strategic Partner Development, Product Partnerships \u2013 Semiconductors",
-      "company": "Anthropic",
-      "location": "New York City, NY; San Francisco, CA | New York City, NY",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390028008",
-      "source": "Greenhouse",
-      "posted_date": "2026-08-13T23:54:36-04:00",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic is looking for a Product Partnerships lead with deep experience in the semiconductor ecosystem. This is not a Sales role. You&#39;ll work with product, research, engineering, legal, and go-to-market teams to shape our platform strategy in semiconductors, source and structure the right partners, and land the commercial and technical agreements that let Anthropic and the industry build together.&lt;/p&gt;\n&lt;p&gt;You&#39;ll be joining a small, senior team that operates at the intersection of frontier AI research and complex commercial deal-making. Semiconductors will be your primary vertical and where we expect you to spend the large majority of your time. That said, our Product Partnerships team is deliberately built of generalist deal-makers \u2014 everyone on the team can pick up a deal in an unfamiliar domain and run it end to end. As Anthropic&#39;s priorities evolve, we&#39;ll want someone who&#39;s genuinely excited to be thrown at a high-priority partnership in another domain \u2014 life sciences, code, or something we haven&#39;t thought of yet \u2014 and close it.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p&gt;Research, source, structure, negotiate, and close strategic collaborations across the semiconductor stack, while shaping internal priorities for the vertical&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Serve as the internal expert on semiconductor partnerships for research,",
-      "seniority": "HR",
-      "department": "Product Management, Support, & Operations",
-      "fit_score": 40,
-      "priority": "P3",
-      "signal_strength": "Medium",
-      "match_reason": "L&D / OD role \u2014 experience designing training and capability building programs",
-      "referral_advantage": "MODERATE \u2014 Check LinkedIn for connections at Anthropic.",
-      "hiring_pain_point": "Building leadership pipeline and succession readiness",
-      "speed_to_hire": "MEDIUM \u2014 Standard hiring timeline",
-      "estimated_tc": "25-40L",
-      "interview_loop": [
-        "Recruiter Screen \u2192 Background fit + level calibration",
-        "Hiring Manager \u2192 HR expertise + strategic thinking",
-        "Stakeholder Round \u2192 Cross-functional collaboration",
-        "Final / Leadership \u2192 Culture + strategic alignment"
-      ],
-      "inmail_draft": "Hi \u2014 I'm reaching out about the Strategic Partner Development, Product Partnerships \u2013 Semiconductors role at Anthropic. I've spent 5 years at Reliance focused on HR management, where I 5 years at Reliance driving HR strategy across business partnering, talent, and employee engagement. My core strength is building people-first organizations that deliver business results. I'd welcome a conversation about how my experience maps to what you're building. Happy to share specifics on impact and approach.",
       "visa_note": "\u2753 UNKNOWN \u2014 Ask recruiter about visa sponsorship early",
       "experience_note": "No specific YOE requirement found"
     },
@@ -9629,8 +9546,8 @@
   "metadata": {
     "total_scraped": 445,
     "unique": 445,
-    "above_threshold": 344,
-    "displayed": 344,
+    "above_threshold": 341,
+    "displayed": 341,
     "elapsed_seconds": 38.2,
     "source_stats": {
       "Lever": {
@@ -9645,12 +9562,12 @@
         "found": 241,
         "error": null
       },
-      "Amazon Jobs": {
-        "found": 8,
-        "error": null
-      },
       "Google Careers": {
         "found": 3,
+        "error": null
+      },
+      "Amazon Jobs": {
+        "found": 8,
         "error": null
       },
       "LinkedIn": {
@@ -9659,7 +9576,7 @@
       }
     },
     "errors": [],
-    "timestamp": "2026-08-16T00:52:46.243787",
+    "timestamp": "2026-08-16T06:27:26.037319",
     "min_fit_score": 40
   },
   "market_insights": {
@@ -9694,11 +9611,11 @@
     "jd_patterns": [
       {
         "keyword": "development",
-        "frequency": 123
+        "frequency": 126
       },
       {
         "keyword": "learning",
-        "frequency": 115
+        "frequency": 116
       },
       {
         "keyword": "recruiting",
@@ -9706,7 +9623,7 @@
       },
       {
         "keyword": "business partner",
-        "frequency": 47
+        "frequency": 45
       },
       {
         "keyword": "engagement",
@@ -9714,7 +9631,7 @@
       },
       {
         "keyword": "compensation",
-        "frequency": 38
+        "frequency": 35
       },
       {
         "keyword": "analytics",
@@ -9726,5 +9643,5 @@
       }
     ]
   },
-  "daily_run_at": "2026-08-16T00:52:46.247259"
+  "daily_run_at": "2026-08-16T06:27:26.039627"
 }
